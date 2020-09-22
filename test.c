@@ -1,0 +1,6 @@
+#include<studi.h>
+
+int main()
+{
+	return 0;
+}
